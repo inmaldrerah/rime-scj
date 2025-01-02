@@ -5,7 +5,7 @@
 [Rime](https://rime.im) 快速倉頡輸入方案
 
     快速倉頡輸入法第六代
-    網址: http://www.scj2000.com
+    網址: http://www.scj2000.net
     Copyright (C) 2002-2009 麥志洪 <makchehu@netvigator.com>
     授權方式: GPL version 3
 
